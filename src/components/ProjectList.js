@@ -1,7 +1,6 @@
 
 import React from "react";
-import ProjectItem from "./ProjectItem"; // Import your ProjectItem component
-
+import ProjectItem from "./ProjectItem"; 
 function ProjectList({ projects }) {
   return (
     <div>
